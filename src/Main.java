@@ -5,7 +5,7 @@ public class Main {
 
 
         System.out.println("siemanko");
-        System.out.println("witam serdecznie");
+        System.out.println("witam serdecznieeeeeeeeeeeeeeeeeeeeee");
     }
 
 ///znowu cos
