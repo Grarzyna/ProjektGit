@@ -5,6 +5,7 @@ public class Main {
 
 
         System.out.println("siemanko");
+        System.out.println("witam serdecznie");
     }
 
 
